@@ -10,8 +10,6 @@ overlay** that stops the scroll, not spoken words, so transcripts are never used
 
 [View the sample report](demo/sample-report.html) - a full playbook generated from 30 top TikToks across `#edm`, `#housemusic`, and `#rave`.
 
-> Replace this line with your deployed URL for the hackathon submission: **https://your-live-demo-here**
-
 ## How it works
 
 1. **Apify TikTok scrape** - the `clockworks/tiktok-scraper` actor pulls the top videos for the chosen hashtags (and optional keyword), with all video/transcript download add-ons off.

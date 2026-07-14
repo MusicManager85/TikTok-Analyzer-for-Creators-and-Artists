@@ -1,4 +1,4 @@
-# Hook Decoder
+# Tik Tok Analyzer for Creators and Artists
 
 **Point it at a music niche and get a data-backed content playbook: the on-screen text hooks, sound strategy, and 5 videos to shoot, pulled from the top TikToks right now.**
 

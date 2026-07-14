@@ -1,0 +1,13 @@
+{
+  "niche_label": "EDM / Dance",
+  "test": {
+    "hashtags": ["edm"],
+    "resultsPerPage": 10
+  },
+  "final": {
+    "hashtags": ["edm", "housemusic", "rave"],
+    "perHashtag": 10,
+    "sortBy": "popular",
+    "lastDays": 30
+  }
+}

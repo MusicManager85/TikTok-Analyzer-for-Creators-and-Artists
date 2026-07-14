@@ -1,0 +1,19 @@
+{
+  "name": "hook-decoder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrapes top TikToks for a niche via Apify, analyzes on-screen text hooks, and generates an HTML content playbook.",
+  "scripts": {
+    "start": "node server.js",
+    "schema": "node src/fetch-schema.js",
+    "scrape": "node src/scrape.js",
+    "enrich": "node src/enrich.js",
+    "synthesize": "node src/synthesize.js",
+    "report": "node src/report.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
